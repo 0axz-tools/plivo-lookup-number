@@ -1,0 +1,120 @@
+AT&T Local --> +18473673728
+Mediacom --> +16189852036
+Frontier Communications --> +16189859500
+magicJack,LP --> +17735821600
+AT&T Local --> +18157230938
+Mediacom --> +12172451618
+US Cellular --> +18155431476
+Comcast Phone --> +18153384455
+Comcast Phone --> +12053307822
+BitWise Communications --> +13096680111
+Charter Fiber --> +16186551188
+RLEC --> +18473754777
+AT&T Local --> +16307733330
+Peerless --> +16302365625
+Vonage --> +17732906249
+AT&T Local --> +17732713765
+Telnyx LLC-10X --> +13167212599
+AT&T Local --> +16305108566
+magicJack,LP --> +18475781280
+Onvoy LLC-Neutral Tandem --> +12178332046
+AT&T Local --> +13126548585
+Level 3 --> +13126215828
+AT&T Local --> +17732765554
+RingCentral --> +18475779515
+AT&T Local --> +17735614255
+Onvoy LLC-Neutral Tandem --> +13093422001
+AT&T Local --> +16306910956
+AT&T Local --> +16183550755
+AT&T Local --> +16305511900
+Onvoy LLC-Neutral Tandem --> +12173593131
+AT&T Local --> +18155843037
+Vonage --> +18477245800
+Comcast Phone --> +18478707070
+ --> +18775008595
+BANDWIDTH.COM --> +16303776777
+Frontier Communications --> +17607711354
+Vonage --> +18473627300
+Cbeyond --> +17737928163
+AT&T Local --> +16303232020
+RingCentral --> +13124648830
+AT&T Local --> +16184514833
+AT&T Local --> +18474820785
+Level 3 --> +13234665151
+AT&T Local --> +17088485461
+MCImetro Former MCI --> +12174832442
+BANDWIDTH.COM --> +16303771855
+AT&T Local --> +16303500375
+AT&T Local --> +18472291096
+AT&T Local --> +18478381440
+AT&T Local --> +16302790504
+McLeod USA --> +13097573580
+Onvoy LLC-Neutral Tandem --> +18157348807
+XO Communications --> +15097558000
+Embarq Communications --> +13093478150
+SBC IP-AT&T Consumer VOIP SOA --> +18472513064
+AT&T Local --> +18472667625
+Comcast Phone --> +17736370100
+Comcast Phone --> +17084797144
+Frontier Communications --> +18152467526
+RingCentral --> +18473255995
+Onvoy LLC-Neutral Tandem --> +13122143998
+AT&T Local --> +17732812916
+Choice One Communications --> +17345627365
+AT&T Local --> +18474903691
+Level 3 --> +18153996600
+Verizon Wireless --> +16306516508
+Mediacom --> +12178934673
+RingCentral --> +17085474067
+AT&T --> +17736282500
+Level 3 --> +13126443559
+Onvoy LLC-Neutral Tandem --> +18156245029
+AT&T Local --> +18473928960
+Comcast Phone --> +17733844561
+AT&T Local --> +17145620880
+Frontier Communications --> +16186547204
+AT&T Local --> +16186921371
+CenturyLink --> +12082326257
+Windstream --> +12814913110
+Peerless --> +18474488051
+American Messaging (Am) --> +16187822895
+Vonage --> +17739354466
+Frontier Rochester --> +13098333460
+BANDWIDTH.COM --> +17737751855
+Frontier Communications --> +16189426902
+McLeod USA --> +18474261244
+BANDWIDTH.COM --> +13128329985
+Onvoy LLC-Neutral Tandem --> +18153977700
+Comcast Phone --> +13127872131
+Onvoy LLC-Neutral Tandem --> +12173523505
+SBC IP-AT&T Consumer VOIP SOA --> +17739356642
+Vonage --> +16306630738
+AT&T Local --> +16305139807
+Geneseo Communications Services --> +13099451221
+Level 3 --> +12175299484
+Comcast Phone --> +16303507607
+T-Mobile US-10X --> +13127199168
+Comcast Phone --> +18479470099
+AT&T Local --> +17086369700
+Comcast Phone --> +18157263279
+Frontier Communications --> +18152867300
+Level 3 --> +13126426000
+AT&T Local --> +16307820044
+AT&T --> +13124930601
+Onvoy LLC-Neutral Tandem --> +18477297333
+ --> +18006218738
+Comcast Phone --> +12174988692
+AT&T Local --> +18479342066
+Consolidated Telephone Company --> +13207492223
+AT&T Local --> +17732355426
+Comcast Phone --> +13126442662
+Frontier Communications --> +13094732013
+Verizon Wireless --> +18155195566
+AT&T Local --> +18475872991
+Frontier Communications --> +13098298775
+AT&T Local --> +17738681552
+Comcast Phone --> +18478545701
+Verizon --> +19736766730
+AT&T Local --> +16303655849
+CenturyLink --> +18156524403
+AT&T Local --> +12173520085
